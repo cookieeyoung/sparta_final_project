@@ -211,3 +211,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,jupyternotebooks
+
+#민감데이터 무시
+data/sales_2021.xlsx
+data/sales_2022.xlsx
+data/sales_2023.xlsx
+data/sales_2024.xlsx
+data/total_data.csv
